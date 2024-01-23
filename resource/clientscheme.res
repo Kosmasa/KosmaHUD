@@ -2947,12 +2947,12 @@ Scheme
 				"antialias" "1"
 			}
 		}
-		GaretHeavy16
+		GaretHeavy18
 		{
 			"1"
 			{
 				"name"		"Garet Heavy"
-				"tall"		"16"
+				"tall"		"18"
 				"antialias" "1"
 			}
 		}
@@ -2966,12 +2966,12 @@ Scheme
 				"antialias" "1"
 			}
 		}
-		GaretHeavy32
+		GaretHeavy36
 		{
 			"1"
 			{
 				"name"		"Garet Heavy"
-				"tall"		"32"
+				"tall"		"36"
 				"antialias" "1"
 			}
 		}
